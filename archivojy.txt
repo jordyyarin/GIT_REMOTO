@@ -1,2 +1,2 @@
-Prueba de cambio de texto nueva_rama 1
+Validación de merge en pull request 2
 hola como estas desde visual studio
